@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://proselyte.net/wp-content/uploads/2016/05/Introduction-to-SQL.png" />
+  <img src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfmAJ5cNZSPcI5l7siO8r8cZk-_TrBuoxvHtL13vh9_DVfsq2uiDUFMPGWnS8Sqo2b34&usqp=CAU />
 </p>
