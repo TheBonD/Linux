@@ -1,7 +1,7 @@
 # Linux
 
 <p align="center" > <font size="5">
-В данном репозитории команды Linux
+В данном репозитории находятся команды Linux
 </p>
 
 <p align="center">
